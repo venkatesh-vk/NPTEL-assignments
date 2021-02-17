@@ -22,5 +22,3 @@ def flatten(l):
         else:
             a.append(i)
     return a
-print(rainaverage([(1,2),(1,3),(2,3),(1,1),(3,8)]))
-        
